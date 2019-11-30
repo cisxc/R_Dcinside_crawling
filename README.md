@@ -104,6 +104,6 @@ wordcloud2(wordcount,fontFamily = '나눔바른고딕')
 
 ![Alt text](/img/KU.JPG)
 
-<h3> 전북대 </h3>
+<h3> 전남대 </h3>
 
 ![Alt text](/img/JNNU.JPG)
