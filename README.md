@@ -88,21 +88,22 @@ wordcloud2(wordcount,fontFamily = '나눔바른고딕')
  
 <h2> 실행 및 분석 결과 </h2>
 
-<h3> 분석 웹 페이지 </h3>
+<h3> 전북대 </h3>
+
+![Alt text](/img/JBNU.JPG)
+
+<h3> 서울대 </h3>
 
 ![Alt text](/img/SU.JPG)
 
-<h3> 겨울 왕국을 제외한 최근 영화 빈도수와 평점 </h3>
+<h3> 연세대 </h3>
 
-* 겨울왕국은 빈도수가 앞도적으로 높아 같이 분석을 할 수 없었다.
+![Alt text](/img/YU.JPG)
 
-![Alt text](/img/movie_gragh.JPG)
+<h3> 고려대 </h3>
 
-<h3> 영화 단어 클라우드 </h3>
+![Alt text](/img/KU.JPG)
 
-![Alt text](/img/Movie_freg.JPG)
+<h3> 전북대 </h3>
 
-<h3> 전체 영화 댓글 단어클라우드(단어수 3개 이상)  </h3>
-
-![Alt text](/img/Movie_issue.JPG)
-
+![Alt text](/img/JNNU.JPG)
