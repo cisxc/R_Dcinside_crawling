@@ -1,24 +1,27 @@
-# 네이버 영화 분석
-www.movie.naver.com와 R를 이용하여 분석을 해본다.
+# Dcinside 대학 분위기 분석
+www.dcinside.com 사이트를 R를 이용하여 분석을 해본다.
 ****
 <h2> 사용 라이브러리 </h2>
 
-* library("rvest")
 * library("R6")
 * library("XML")
-* library("wordcloud")
-* library("RColorBrewer")
-* library("tidyverse")   
+* library("wordcloud2")
+* library(RSelenium) 
 * library("KoNLP")  
 
 <h2> 프로그램 소개 </h2>
 
 * https://movie.naver.com/movie/point/af/list.nhn 파싱
-* 10000개의 데이터를 분석하였다
-* 댓글, 평점, 영화 빈도수 크롤링
-* 그래프를 그려 영화별 상관관계를 분석
-* 워드클라우드를 활용하여 영화의 선호도 및 분위기 분석
+* 각 5000개의 데이터를 분석하였다
+* DC 갤러리의 제목들을 크롤링
+* 워드클라우드2를 활용하여 대학교 성향 및 분위기 분석
 
+ ****
+ 
+ <h2> 코드 설명 </h2>
+ 
+ 
+ 
  ****
  
 <h2> 실행 및 분석 결과 </h2>
